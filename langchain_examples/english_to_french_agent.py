@@ -9,6 +9,8 @@ import langchain_core.messages as lcmessages
 # Most basic:
 # Get a model object.
 # invoke the model with System prompt + user prompt
+# NOTE: set the OPENROUTER_API_KEY in the terminal
+#  example %~> export OPENROUTER_API_KEY=sdk_xyz
 #---------------------------------------------                                       
 
 
